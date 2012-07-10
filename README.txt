@@ -1,0 +1,3 @@
+Prototype field data logging system
+
+More documentation to follow...
